@@ -1,4 +1,3 @@
-New text added.
 Test1
 Test2
 Test3
